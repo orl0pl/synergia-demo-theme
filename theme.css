@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
 body,html {
   font-family: Open Sans,Verdana,sans-serif !important;
-  background-color: blue !important;
 }
 input.ui-button {
   outline: #058CE3 1px solid;
